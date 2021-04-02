@@ -6,3 +6,6 @@ Public keys are public
 
 ## Legion R7k - Arch
 [id_rsa_r7k_new.pub](./id_rsa_r7k_new.pub)
+
+## VLab - Arch
+[id_rsa_vlab_new.pub](./id_rsa_vlab_new.pub)
